@@ -1,4 +1,4 @@
-## Simple Alarm
+## Simple Alarm with Arduino
 ### Design of a simple alarm with your fixed arming and disarming schedule
 
 #### *Used Items:*
